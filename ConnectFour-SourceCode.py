@@ -1,8 +1,7 @@
-# Hw 10, pr2 for CS 5 gold, 2016
-# 
-# The Board class from CS 5 Hw #10
+
+
 # for use as a starting point for
-# Hw#11, the Player class (and AI)
+# the Player class (and AI)
 #
 import random
 def index_function(e,L):
